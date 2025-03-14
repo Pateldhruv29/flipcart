@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flipcart/static/css/main.c893cabe.css",
-    "main.js": "/flipcart/static/js/main.f2ba2d7f.js",
+    "main.js": "/flipcart/static/js/main.de3bc2ab.js",
     "static/js/453.92c053d8.chunk.js": "/flipcart/static/js/453.92c053d8.chunk.js",
     "static/media/culturefirstphoto.png": "/flipcart/static/media/culturefirstphoto.76c8fd3c9ef1064c90a3.png",
     "static/media/speakers.jpg": "/flipcart/static/media/speakers.7e4546cd044dae5b39b2.jpg",
@@ -62,11 +62,11 @@
     "static/media/phones.webp": "/flipcart/static/media/phones.905811916bf979e97474.webp",
     "index.html": "/flipcart/index.html",
     "main.c893cabe.css.map": "/flipcart/static/css/main.c893cabe.css.map",
-    "main.f2ba2d7f.js.map": "/flipcart/static/js/main.f2ba2d7f.js.map",
+    "main.de3bc2ab.js.map": "/flipcart/static/js/main.de3bc2ab.js.map",
     "453.92c053d8.chunk.js.map": "/flipcart/static/js/453.92c053d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c893cabe.css",
-    "static/js/main.f2ba2d7f.js"
+    "static/js/main.de3bc2ab.js"
   ]
 }
