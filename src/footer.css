@@ -1,0 +1,74 @@
+.footermain{
+    background-color: black;
+}
+.alldiv{
+    display: flex;
+    color: #ffffffb0;
+    padding: 0 20px;
+}
+.mainmail,.mainaddress{
+    width: 240px;
+    padding-top: 10px;
+}
+.threelogo{
+    display: flex;
+    font-size: 20px;
+    padding-top: 5px;
+}
+.twiter,.youtube{
+    padding-left: 10px;
+}
+.aboutdiv,.groupdiv,.helpdiv,.policydiv{
+    padding-left: 55px;
+    font-size: 13PX;
+    padding-top: 30px;
+}
+.policydiv{
+    padding-right: 55px;
+}
+.maildiv,.addressdiv{
+    padding-left: 55px;
+    font-size: 13PX;
+    padding-top: 30px;
+}
+.line{
+    border-left: 1px solid gray;
+    height: 195px;
+    margin-top: 25px;
+}
+.firstname{
+    padding-top: 10px;
+}
+.firstname,.secondname,.thirdname,.forthname,.fifthname,.sixthname,.seventhname,.mainmail,.mainaddress,.fb,.twiter,.youtube,.cin,.telephone{
+    color: white;
+}
+.secondname,.thirdname,.forthname,.fifthname,.sixthname{
+    padding-top: 2px;
+}
+.firstname:hover,.secondname:hover,.thirdname:hover,.forthname:hover,.fifthname:hover,.sixthname:hover,.seventhname:hover{
+    text-decoration: underline;
+    color: white;
+} 
+.social{
+    padding-top: 5px;
+}
+.secondline{
+    border: 1px solid gray;
+    margin-top: 20px;
+}
+.lasttwo{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 10px  0;
+}
+.cards{
+    display: flex;
+    margin-right: 170px;
+}    
+.copyright{
+    margin-left: 100px;
+}
+.secondcard,.thirdcard,.forthcard{
+    padding-left: 20px;
+}

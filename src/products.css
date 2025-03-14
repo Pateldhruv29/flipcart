@@ -1,0 +1,21 @@
+.itemmain{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 100px;
+    padding-top: 90px;
+}
+.photo1{
+    height: 100px;
+}
+.item1{
+    text-align: center;
+}
+.photohome,.photobeauty{
+    text-align: center;
+}
+.itemhome,.itembeauty{
+    padding-top: 16px;
+}
+.itemhome,.itembeauty{
+    padding-top: 20px;
+}

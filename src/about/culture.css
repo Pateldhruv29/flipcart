@@ -1,0 +1,45 @@
+.culturemain{
+    margin-top: 50px;
+    position: relative;
+}
+.firstimgculture img{
+    width: 100%;
+}
+.textandculturesecondimg{
+    display: flex;
+    justify-content: space-between;
+}
+.culturethreediv{
+    position: absolute;
+    top: 160px;
+}
+.culturesentance{
+    color: white;
+    font-size: 20px;
+    width: 600px;
+    padding-left: 150px;
+    line-height: 2;
+    font-weight: 500;
+}
+.culturebooton{
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 200px;
+    color: white;
+    background-color: #017BD4;
+    text-align: center;
+    padding: 10px 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.culturemainname{
+    font-size: 50px;
+    font-weight: 500;
+    color: #ffcd00;
+    padding-left: 150px;
+}
+.secondimgculture{
+    position: absolute;
+    top: 206px;
+    left: 72%;
+}

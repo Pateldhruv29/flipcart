@@ -1,0 +1,26 @@
+.aboutlogoflipcart img{
+    height: 70px;
+    width: 150px;
+    margin-left: 90px;
+}
+.navbar{
+    display: flex;
+    width: 100%;
+    position: fixed;
+    justify-content: space-between;
+    background-color: white;
+    z-index: 2;
+}
+.otherdiv{
+    display: flex;
+}
+.about,.ethics,.culture,.technology,.sustainability,.stories{
+    font-size: 20px;
+    color: gray;
+}
+.stories{
+    padding-right: 100px;
+}
+.about,.ethics,.culture,.technology,.sustainability{
+    padding-right: 50px;
+}

@@ -1,0 +1,17 @@
+.flowtext{
+    width: 100%;
+    animation: flowimg 10s linear infinite;
+    overflow: hidden;
+}
+.flowtext img{
+    width: 100%;
+    overflow: hidden;
+}
+@keyframes flowimg{
+    from{
+        transform: translate(-80vh);
+    }
+    to{
+        transform: translate(200vh);
+    }
+}

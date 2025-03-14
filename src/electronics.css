@@ -1,0 +1,29 @@
+.itemheading{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left:20px;
+}
+.itemphoto img{
+    height: 150px;
+    width: 190px;
+    margin:10px 13px;
+    justify-content: center;
+}
+.itemphoto img:hover{
+    transform: scale(1.05);
+    transition-duration: 0.1s;
+}
+.itemprice,.itemname{
+    text-align: center;
+}
+.main{
+    margin-top: 20px;
+    border: 2px solid lightslategray;
+    height: 230px;
+    width: 220px;
+    margin-left: 10px;
+}
+.flex{
+    display: flex;
+    margin: 0 65px;
+}

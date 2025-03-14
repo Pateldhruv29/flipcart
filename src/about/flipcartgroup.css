@@ -1,0 +1,34 @@
+.maindiv{
+    background-color: #017bd4;
+}
+.imgandtext{
+    display: flex;
+}
+.grpimg img{
+    width: 100%;
+    height: 400px;
+    padding: 50px 80px;
+}
+.threediv{
+    margin-left: 160px;
+} 
+.titlename{
+    font-size: 30px;
+    color: yellow;
+    padding-top: 50px;
+}
+.sentance{
+    padding-top: 50px;
+    font-size: 20px;
+    width: 70%;
+    color: white;
+}
+.button{
+    border: 2px solid white;
+    width: 200px;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 60px;
+}

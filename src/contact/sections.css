@@ -1,0 +1,11 @@
+.sectionmaindiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 150px;
+    background-color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .16);
+    font-weight: 500;
+}
+.electronics:hover,.tvs:hover,.men:hover,.women:hover,.baby:hover,.home:hover,.sports:hover,.flight:hover,.offer:hover{
+    color: #2874f0;
+}

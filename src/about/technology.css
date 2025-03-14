@@ -1,0 +1,36 @@
+.imgandtexttechnology{
+    display: flex;
+}
+.technologyimg img{
+    margin-left: 100px;
+}
+.technologyfourdiv{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.technologymain{
+    font-size: 20px;
+    font-weight: 500;
+}
+.technologysecond{
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 20px;
+}
+.technologythird{
+    color: gray;
+    width: 630px;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+.technologybutton{
+    border: 2px solid white;
+    width: 200px;
+    color: white;
+    background-color: #017BD4;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 30px;
+}

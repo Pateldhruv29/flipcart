@@ -1,0 +1,92 @@
+.storiestwomain,.newsandline{
+    display: flex;
+}
+.storiestwomain{
+    height: 50%;
+}
+.news{
+    font-size: 50px;
+    font-weight: 500;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.stroiesfirst{
+    width: 75%;
+    position: relative;
+}
+.storiesline{
+    height: 1px;
+    width: 200px;
+    background-color:  black;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+.storiesimg img{    
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.blackdiv{
+    position: absolute;
+    bottom: 15px;
+    background-color: black;
+    height: 260px;
+    width: 80%;
+    margin-left: 100PX;
+}
+.blackdivtext{
+    color: white;
+    font-size: 30PX;
+    padding-left: 50PX;
+    padding-top: 50PX;
+    padding-right: 40PX;
+}
+.dateandarrow{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.date{
+    padding: 20PX 0 0 50PX;
+}
+.arrow{
+    font-size: 25PX;
+    height: 30PX;
+    width: 30PX;
+    border: 2PX solid white;
+    border-radius: 50%;
+    margin-right: 50PX;
+    padding-left: 8PX;
+    padding-bottom: 6PX;
+}
+.storiesbutton{
+    border: 2px solid white;
+    width: 160px;
+    color: white;
+    background-color: #017BD4;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.nextbutton{
+    color: #ee3a2f;
+    padding-top: 20px;
+    padding-left: 20px;
+    letter-spacing: 5px;
+}
+.firstnews,.secondnews,.thirdnews,.forthnews{
+    width: 350px;
+    padding-top: 20px;
+    font-size: 16px;
+    line-height: 25px;
+}
+.firstnewsdate,.secondnewsdate,.thirdnewsdate,.forthnewsdate{
+    padding-top: 10px;
+    color: #a1a1a1;
+}
+.firstnewsline,.secondnewsline,.thirdnewsline,.forthnewsline{
+    width: 300px;
+    height: 1px;
+    background-color: lightgrey;
+    margin-top: 10px;
+}

@@ -1,0 +1,42 @@
+.trendingheading{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left:20px;
+}
+.itemmphoto img{
+    height: 200px;
+    width: 190px;
+    margin:10px 13px;
+    justify-content: center;
+}
+.itemmphoto img:hover{
+    transform: scale(1.05);
+    transition-duration: 0.1s;
+}
+.mainn{
+    margin-top: 20px;
+    border: 2px solid lightslategray;
+    height: 283px;
+    width: 220px;
+    margin-left: 10px;
+}
+.firsttwo,.secondtwo{
+    display: flex;
+    margin-left: 65px;
+}
+.trimerphoto img{
+    height: 200px;
+    width: 190px;
+    margin:10px 26px;
+    justify-content: center; 
+}
+.trendingandad{
+    display: flex;
+}
+.bigad img{
+    width: 95%;
+    height: 100%;
+    object-fit: cover;
+    padding: 0 30px;
+    padding-top: 20px;
+}

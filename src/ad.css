@@ -1,0 +1,11 @@
+.threeads{
+    display: flex;
+    margin: 20px 0;
+    padding: 0 55px;
+}
+.firstad img,.secondad img,.thirdad img{
+    width: 100%;
+}
+.firstad,.secobdad,.thirdad{
+    padding: 0 20px;
+}
